@@ -25,3 +25,11 @@ XML Content Usage
 ```php
 $array = XMLFileParser::parseXMLContentToArray($content);
 ```
+
+## Other Methods
+
+To better understand what are the available XML functions this library have, please analyse the following files:
+- [XMLFileParser](lib/xmlfile/XMLFileParser.php)
+- [MyXML](lib/util/xml/MyXML.php)
+- [MyXMLArray](lib/util/xml/MyXMLArray.php)
+
